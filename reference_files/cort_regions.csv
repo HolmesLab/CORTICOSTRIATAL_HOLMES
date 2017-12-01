@@ -1,0 +1,220 @@
+4054,AOrG,"anterior orbital gyrus, left",4053,L,6,/4005/4006/4007/4008/4009/4053/4054/,E8BF59
+4055,AOrG,"anterior orbital gyrus, right",4053,R,7,/4005/4006/4007/4008/4009/4053/4055/,E8BF59
+4079,fro,"frontal operculum, left",4078,L,9,/4005/4006/4007/4008/4009/4078/4079/,E8C159
+4080,fro,"frontal operculum, right",4078,R,10,/4005/4006/4007/4008/4009/4078/4080/,E8C159
+4889,FP,"frontal pole, left",4888,L,12,/4005/4006/4007/4008/4009/4888/4889/,E8C359
+4890,FP-s,"frontal pole, left, superior aspect",4889,L,13,/4005/4006/4007/4008/4009/4888/4889/4890/,E8C359
+4891,FPi,"frontal pole, left, inferior aspect",4889,L,14,/4005/4006/4007/4008/4009/4888/4889/4891/,E8C359
+4892,FPm,"frontal pole, left, medial aspect",4889,L,15,/4005/4006/4007/4008/4009/4888/4889/4892/,E8C359
+4893,FP,"frontal pole, right",4888,R,16,/4005/4006/4007/4008/4009/4888/4893/,E8C359
+4894,FP-s,"frontal pole, right, superior aspect",4893,R,17,/4005/4006/4007/4008/4009/4888/4893/4894/,E8C359
+4895,FPi,"frontal pole, right, inferior aspect",4893,R,18,/4005/4006/4007/4008/4009/4888/4893/4895/,E8C359
+4896,FPm,"frontal pole, right, medial aspect",4893,R,19,/4005/4006/4007/4008/4009/4888/4893/4896/,E8C359
+4048,GRe,"gyrus rectus, left",4047,L,21,/4005/4006/4007/4008/4009/4047/4048/,E8C459
+4049,GRe,"gyrus rectus, right",4047,R,22,/4005/4006/4007/4008/4009/4047/4049/,E8C459
+4036,IFG,"inferior frontal gyrus, left",4035,L,24,/4005/4006/4007/4008/4009/4035/4036/,E8C659
+4037,IFG,"inferior frontal gyrus, right",4035,R,25,/4005/4006/4007/4008/4009/4035/4037/,E8C659
+4042,opIFG,"inferior frontal gyrus, opercular part, left",4041,L,27,/4005/4006/4007/4008/4009/4035/4041/4042/,E8C659
+4043,opIFG,"inferior frontal gyrus, opercular part, right",4041,R,28,/4005/4006/4007/4008/4009/4035/4041/4043/,E8C659
+4045,orIFG,"inferior frontal gyrus, orbital part, left",4044,L,30,/4005/4006/4007/4008/4009/4035/4044/4045/,E8C659
+4046,orIFG,"inferior frontal gyrus, orbital part, right",4044,R,31,/4005/4006/4007/4008/4009/4035/4044/4046/,E8C659
+4039,trIFG,"inferior frontal gyrus, triangular part, left",4038,L,33,/4005/4006/4007/4008/4009/4035/4038/4039/,E8C659
+4040,trIFG,"inferior frontal gyrus, triangular part, right",4038,R,34,/4005/4006/4007/4008/4009/4035/4038/4040/,E8C659
+4901,IRoG,"inferior rostral gyrus, left",4900,L,36,/4005/4006/4007/4008/4009/4900/4901/,E8C859
+4902,IRoG,"inferior rostral gyrus, right",4900,R,37,/4005/4006/4007/4008/4009/4900/4902/,E8C859
+4901,IRoG,"inferior rostral gyrus, left",4900,L,36,/4005/4006/4007/4008/4009/4900/4901/,E8C859
+4902,IRoG,"inferior rostral gyrus, right",4900,R,37,/4005/4006/4007/4008/4009/4900/4902/,E8C859
+4051,MOrG,"medial orbital gyrus, left",4050,L,42,/4005/4006/4007/4008/4009/4050/4051/,E8CB59
+4052,MOrG,"medial orbital gyrus, right",4050,R,43,/4005/4006/4007/4008/4009/4050/4052/,E8CB59
+4029,MFG,"middle frontal gyrus, left",4028,L,45,/4005/4006/4007/4008/4009/4028/4029/,E8CD59
+4030,MFG-s,"middle frontal gyrus, left, superior bank of gyrus",4029,L,46,/4005/4006/4007/4008/4009/4028/4029/4030/,E8CD59
+4031,MFG-i,"middle frontal gyrus, left, inferior bank of gyrus",4029,L,47,/4005/4006/4007/4008/4009/4028/4029/4031/,E8CD59
+4032,MFG,"middle frontal gyrus, right",4028,R,48,/4005/4006/4007/4008/4009/4028/4032/,E8CD59
+4033,MFG-s,"middle frontal gyrus, right, superior bank of gyrus",4032,R,49,/4005/4006/4007/4008/4009/4028/4032/4033/,E8CD59
+4034,MFG-i,"middle frontal gyrus, right, inferior bank of gyrus",4032,R,50,/4005/4006/4007/4008/4009/4028/4032/4034/,E8CD59
+265504410,OlfA,"olfactory area, left",265504406,L,52,/4005/4006/4007/4008/4009/265504406/265504410/,E8CE59
+265504414,OlfA,"olfactory area, right",265504406,R,53,/4005/4006/4007/4008/4009/265504406/265504414/,E8CE59
+4072,PCLa,"paracentral lobule, anterior part, left",4071,L,55,/4005/4006/4007/4008/4009/4071/4072/,E8CF59
+4073,PCLa-s,"paracentral lobule, anterior part, left, superior bank of gyrus",4072,L,56,/4005/4006/4007/4008/4009/4071/4072/4073/,E8CF59
+4074,PCLa-i,"paracentral lobule, anterior part, left, inferior bank of gyrus",4072,L,57,/4005/4006/4007/4008/4009/4071/4072/4074/,E8CF59
+4075,PCLa,"paracentral lobule, anterior part, right",4071,R,58,/4005/4006/4007/4008/4009/4071/4075/,E8CF59
+4076,PCLa-s,"paracentral lobule, anterior part, right, superior bank of gyrus",4075,R,59,/4005/4006/4007/4008/4009/4071/4075/4076/,E8CF59
+4077,PCLa-i,"paracentral lobule, anterior part, right, inferior bank of gyrus",4075,R,60,/4005/4006/4007/4008/4009/4071/4075/4077/,E8CF59
+4066,PTG,"paraterminal gyrus, left",4065,L,62,/4005/4006/4007/4008/4009/4065/4066/,E8D059
+4067,PTG,"paraterminal gyrus, right",4065,R,63,/4005/4006/4007/4008/4009/4065/4067/,E8D059
+4069,PaOG,"parolfactory gyri, left",4068,L,65,/4005/4006/4007/4008/4009/4068/4069/,E8D259
+4070,PaOG,"parolfactory gyri, right",4068,R,66,/4005/4006/4007/4008/4009/4068/4070/,E8D259
+4057,POrG,"posterior orbital gyrus, left",4056,L,68,/4005/4006/4007/4008/4009/4056/4057/,E8D459
+4058,POrG,"posterior orbital gyrus, right",4056,R,69,/4005/4006/4007/4008/4009/4056/4058/,E8D459
+4011,PrG,"precentral gyrus, left",4010,L,71,/4005/4006/4007/4008/4009/4010/4011/,E8D659
+4012,PrG-prc,"precentral gyrus, left, bank of the precentral sulcus",4011,L,72,/4005/4006/4007/4008/4009/4010/4011/4012/,E8D659
+4013,PrG-sl,"precentral gyrus, left, superior lateral aspect of gyrus",4011,L,73,/4005/4006/4007/4008/4009/4010/4011/4013/,E8D659
+4014,PrG-il,"precentral gyrus, left, inferior lateral aspect of gyrus",4011,L,74,/4005/4006/4007/4008/4009/4010/4011/4014/,E8D659
+4015,PrG-cs,"precentral gyrus, left, bank of the central sulcus",4011,L,75,/4005/4006/4007/4008/4009/4010/4011/4015/,E8D659
+4016,PrG,"precentral gyrus, right",4010,R,76,/4005/4006/4007/4008/4009/4010/4016/,E8D659
+4017,PrG-prc,"precentral gyrus, right, bank of the precentral sulcus",4016,R,77,/4005/4006/4007/4008/4009/4010/4016/4017/,E8D659
+4018,PrG-sl,"precentral gyrus, right, superior lateral aspect of gyrus",4016,R,78,/4005/4006/4007/4008/4009/4010/4016/4018/,E8D659
+4019,PrG-il,"precentral gyrus, right, inferior lateral aspect of gyrus",4016,R,79,/4005/4006/4007/4008/4009/4010/4016/4019/,E8D659
+4020,PrG-cs,"precentral gyrus, right, bank of the central sulcus",4016,R,80,/4005/4006/4007/4008/4009/4010/4016/4020/,E8D659
+4022,SFG,"superior frontal gyrus, left",4021,L,82,/4005/4006/4007/4008/4009/4021/4022/,E8D959
+4023,SFG-m,"superior frontal gyrus, left, medial bank of gyrus",4022,L,83,/4005/4006/4007/4008/4009/4021/4022/4023/,E8D959
+4024,SFG-l,"superior frontal gyrus, left, lateral bank of gyrus",4022,L,84,/4005/4006/4007/4008/4009/4021/4022/4024/,E8D959
+4025,SFG,"superior frontal gyrus, right",4021,R,85,/4005/4006/4007/4008/4009/4021/4025/,E8D959
+4026,SFG-m,"superior frontal gyrus, right, medial bank of gyrus",4025,R,86,/4005/4006/4007/4008/4009/4021/4025/4026/,E8D959
+4027,SFG-l,"superior frontal gyrus, right, lateral bank of gyrus",4025,R,87,/4005/4006/4007/4008/4009/4021/4025/4027/,E8D959
+4898,SRoG,"superior rostral gyrus, left",4897,L,89,/4005/4006/4007/4008/4009/4897/4898/,E8DB59
+4899,SRoG,"superior rostral gyrus, right",4897,R,90,/4005/4006/4007/4008/4009/4897/4899/,E8DB59
+4270,LIG,"long insular gyri, left",4269,L,93,/4005/4006/4007/4008/4268/4269/4270/,FFF161
+4271,LIG,"long insular gyri, right",4269,R,94,/4005/4006/4007/4008/4268/4269/4271/,FFF161
+4273,SIG,"short insular gyri, left",4272,L,96,/4005/4006/4007/4008/4268/4272/4273/,EFFF61
+4274,SIG,"short insular gyri, right",4272,R,97,/4005/4006/4007/4008/4268/4272/4274/,EFFF61
+4222,CgGf,"cingulate gyrus, frontal part, left",4221,L,101,/4005/4006/4007/4008/4219/4220/4221/4222/,7F5B33
+4223,CgGf-s,"cingulate gyrus, frontal part, left, superior bank of gyrus",4222,L,102,/4005/4006/4007/4008/4219/4220/4221/4222/4223/,7F5B33
+4224,CgGf-i,"cingulate gyrus, frontal part, left, inferior bank of gyrus",4222,L,103,/4005/4006/4007/4008/4219/4220/4221/4222/4224/,7F5B33
+4225,CgGf,"cingulate gyrus, frontal part, right",4221,R,104,/4005/4006/4007/4008/4219/4220/4221/4225/,7F5B33
+4226,CgGf-s,"cingulate gyrus, frontal part, right, superior bank of gyrus",4225,R,105,/4005/4006/4007/4008/4219/4220/4221/4225/4226/,7F5B33
+4227,CgGf-i,"cingulate gyrus, frontal part, right, inferior bank of gyrus",4225,R,106,/4005/4006/4007/4008/4219/4220/4221/4225/4227/,7F5B33
+4229,CgGp,"cingulate gyrus, parietal part, left",4228,L,108,/4005/4006/4007/4008/4219/4220/4228/4229/,7F6233
+4230,CgGp-s,"cingulate gyrus, parietal part, left, superior bank of gyrus",4229,L,109,/4005/4006/4007/4008/4219/4220/4228/4229/4230/,7F6233
+4231,CgGp-i,"cingulate gyrus, parietal part, left, inferior bank of gyrus",4229,L,110,/4005/4006/4007/4008/4219/4220/4228/4229/4231/,7F6233
+4232,CgGp,"cingulate gyrus, parietal part, right",4228,R,111,/4005/4006/4007/4008/4219/4220/4228/4232/,7F6233
+4233,CgGp-s,"cingulate gyrus, parietal part, right, superior bank of gyrus",4232,R,112,/4005/4006/4007/4008/4219/4220/4228/4232/4233/,7F6233
+4234,CgGp-i,"cingulate gyrus, parietal part, right, inferior bank of gyrus",4232,R,113,/4005/4006/4007/4008/4219/4220/4228/4232/4234/,7F6233
+4236,CgGr,"cingulate gyrus, retrosplenial part, left",4235,L,115,/4005/4006/4007/4008/4219/4220/4235/4236/,7F6933
+4237,CgGr-s,"cingulate gyrus, retrosplenial part, left, superior bank of gyrus",4236,L,116,/4005/4006/4007/4008/4219/4220/4235/4236/4237/,7F6933
+4238,CgGr-i,"cingulate gyrus, retrosplenial part, left, inferior bank of gyrus",4236,L,117,/4005/4006/4007/4008/4219/4220/4235/4236/4238/,7F6933
+4239,CgGr,"cingulate gyrus, retrosplenial part, right",4235,R,118,/4005/4006/4007/4008/4219/4220/4235/4239/,7F6933
+4240,CgGr-s,"cingulate gyrus, retrosplenial part, right, superior bank of gyrus",4239,R,119,/4005/4006/4007/4008/4219/4220/4235/4239/4240/,7F6933
+4241,CgGr-i,"cingulate gyrus, retrosplenial part, right, inferior bank of gyrus",4239,R,120,/4005/4006/4007/4008/4219/4220/4235/4239/4241/,7F6933
+4063,SCG,"subcallosal cingulate gyrus, left",4062,L,122,/4005/4006/4007/4008/4219/4220/4062/4063/,7F5F33
+4064,SCG,"subcallosal cingulate gyrus, right",4062,R,123,/4005/4006/4007/4008/4219/4220/4062/4064/,7F5F33
+4185,Cun,"cuneus, left",4184,L,166,/4005/4006/4007/4008/4180/4184/4185/,E87751
+4186,Cun-pest,"cuneus, left, peristriate",4185,L,167,/4005/4006/4007/4008/4180/4184/4185/4186/,E87751
+4187,Cun-str,"cuneus, left, striate",4185,L,168,/4005/4006/4007/4008/4180/4184/4185/4187/,E87751
+4188,Cun,"cuneus, right",4184,R,169,/4005/4006/4007/4008/4180/4184/4188/,E87751
+4189,Cun-pest,"cuneus, right, peristriate",4188,R,170,/4005/4006/4007/4008/4180/4184/4188/4189/,E87751
+4190,Cun-str,"cuneus, right, striate",4188,R,171,/4005/4006/4007/4008/4180/4184/4188/4190/,E87751
+4206,IOG,"inferior occipital gyrus, left",4205,L,173,/4005/4006/4007/4008/4180/4205/4206/,E87B51
+4207,IOG-s,"inferior occipital gyrus, left, superior bank of gyrus",4206,L,174,/4005/4006/4007/4008/4180/4205/4206/4207/,E87B51
+4208,IOG-i,"inferior occipital gyrus, left, inferior bank of gyrus",4206,L,175,/4005/4006/4007/4008/4180/4205/4206/4208/,E87B51
+4209,IOG,"inferior occipital gyrus, right",4205,R,176,/4005/4006/4007/4008/4180/4205/4209/,E87B51
+4210,IOG-s,"inferior occipital gyrus, right, superior bank of gyrus",4209,R,177,/4005/4006/4007/4008/4180/4205/4209/4210/,E87B51
+4211,IOG-i,"inferior occipital gyrus, right, inferior bank of gyrus",4209,R,178,/4005/4006/4007/4008/4180/4205/4209/4211/,E87B51
+4192,LiG,"lingual gyrus, left",4191,L,180,/4005/4006/4007/4008/4180/4191/4192/,E88051
+4193,LiG-pest,"lingual gyrus, left, peristriate",4192,L,181,/4005/4006/4007/4008/4180/4191/4192/4193/,E88051
+4194,LiG-str,"lingual gyrus, left, striate",4192,L,182,/4005/4006/4007/4008/4180/4191/4192/4194/,E88051
+4195,LiG,"lingual gyrus, right",4191,R,183,/4005/4006/4007/4008/4180/4191/4195/,E88051
+4196,LiG-pest,"lingual gyrus, right, peristriate",4195,R,184,/4005/4006/4007/4008/4180/4191/4195/4196/,E88051
+4197,LiG-str,"lingual gyrus, right, striate",4195,R,185,/4005/4006/4007/4008/4180/4191/4195/4197/,E88051
+4182,OP,"occipital pole, left",4181,L,187,/4005/4006/4007/4008/4180/4181/4182/,E88551
+4909,OPs,"occipital pole, left, superior aspect",4182,L,188,/4005/4006/4007/4008/4180/4181/4182/4909/,E88551
+4910,OPi,"occipital pole, left, inferior aspect",4182,L,189,/4005/4006/4007/4008/4180/4181/4182/4910/,E88551
+4911,OPl,"occipital pole, left, lateral aspect",4182,L,190,/4005/4006/4007/4008/4180/4181/4182/4911/,E88551
+4183,OP,"occipital pole, right",4181,R,191,/4005/4006/4007/4008/4180/4181/4183/,E88551
+4912,OPs,"occipital pole, right, superior aspect",4183,R,192,/4005/4006/4007/4008/4180/4181/4183/4912/,E88551
+4913,OPi,"occipital pole, right, inferior aspect",4183,R,193,/4005/4006/4007/4008/4180/4181/4183/4913/,E88551
+4914,OPl,"occipital pole, right, lateral aspect",4183,R,194,/4005/4006/4007/4008/4180/4181/4183/4914/,E88551
+4199,OTG,"occipito-temporal gyrus, left",4198,L,196,/4005/4006/4007/4008/4180/4198/4199/,E88A51
+4200,OTG-s,"occipito-temporal gyrus, left, superior bank of gyrus",4199,L,197,/4005/4006/4007/4008/4180/4198/4199/4200/,E88A51
+4201,OTG-i,"occipito-temporal gyrus, left, inferior bank of gyrus",4199,L,198,/4005/4006/4007/4008/4180/4198/4199/4201/,E88A51
+4202,OTG,"occipito-temporal gyrus, right",4198,R,199,/4005/4006/4007/4008/4180/4198/4202/,E88A51
+4203,OTG-s,"occipito-temporal gyrus, right, superior bank of gyrus",4202,R,200,/4005/4006/4007/4008/4180/4198/4202/4203/,E88A51
+4204,OTG-i,"occipito-temporal gyrus, right, inferior bank of gyrus",4202,R,201,/4005/4006/4007/4008/4180/4198/4202/4204/,E88A51
+4213,SOG,"superior occipital gyrus, left",4212,L,203,/4005/4006/4007/4008/4180/4212/4213/,E88F51
+4214,SOG-s,"superior occipital gyrus, left, superior bank of gyrus",4213,L,204,/4005/4006/4007/4008/4180/4212/4213/4214/,E88F51
+4215,SOG-i,"superior occipital gyrus, left, inferior bank of gyrus",4213,L,205,/4005/4006/4007/4008/4180/4212/4213/4215/,E88F51
+4216,SOG,"superior occipital gyrus, right",4212,R,206,/4005/4006/4007/4008/4180/4212/4216/,E88F51
+4217,SOG-s,"superior occipital gyrus, right, superior bank of gyrus",4216,R,207,/4005/4006/4007/4008/4180/4212/4216/4217/,E88F51
+4218,SOG-i,"superior occipital gyrus, right, inferior bank of gyrus",4216,R,208,/4005/4006/4007/4008/4180/4212/4216/4218/,E88F51
+4112,AnG,"angular gyrus, left",4111,L,212,/4005/4006/4007/4008/4084/4103/4111/4112/,FF5D62
+4113,AnG-s,"angular gyrus, left, superior bank of gyrus",4112,L,213,/4005/4006/4007/4008/4084/4103/4111/4112/4113/,FF5D62
+4114,AnG-i,"angular gyrus, left, inferior bank of gyrus",4112,L,214,/4005/4006/4007/4008/4084/4103/4111/4112/4114/,FF5D62
+4115,AnG,"angular gyrus, right",4111,R,215,/4005/4006/4007/4008/4084/4103/4111/4115/,FF5D62
+4116,AnG-s,"angular gyrus, right, superior bank of gyrus",4115,R,216,/4005/4006/4007/4008/4084/4103/4111/4115/4116/,FF5D62
+4117,AnG-i,"angular gyrus, right, inferior bank of gyrus",4115,R,217,/4005/4006/4007/4008/4084/4103/4111/4115/4117/,FF5D62
+4105,SMG,"supramarginal gyrus, left",4104,L,219,/4005/4006/4007/4008/4084/4103/4104/4105/,FF5D62
+4106,SMG-s,"supramarginal gyrus, left, superior bank of gyrus",4105,L,220,/4005/4006/4007/4008/4084/4103/4104/4105/4106/,FF5D62
+4107,SMG-i,"supramarginal gyrus, left, inferior bank of gyrus",4105,L,221,/4005/4006/4007/4008/4084/4103/4104/4105/4107/,FF5D62
+4108,SMG,"supramarginal gyrus, right",4104,R,222,/4005/4006/4007/4008/4084/4103/4104/4108/,FF5D62
+4109,SMG-s,"supramarginal gyrus, right, superior bank of gyrus",4108,R,223,/4005/4006/4007/4008/4084/4103/4104/4108/4109/,FF5D62
+4110,SMG-i,"supramarginal gyrus, right, inferior bank of gyrus",4108,R,224,/4005/4006/4007/4008/4084/4103/4104/4108/4110/,FF5D62
+4126,PCLp,"paracentral lobule, posterior part, left",4125,L,226,/4005/4006/4007/4008/4084/4125/4126/,FF6462
+4127,PCLp-l,"paracentral lobule, posterior part, left, lateral bank of gyrus",4126,L,227,/4005/4006/4007/4008/4084/4125/4126/4127/,FF6462
+4128,PCLp-cs,"paracentral lobule, posterior part, left, bank of cingulate sulcus",4126,L,228,/4005/4006/4007/4008/4084/4125/4126/4128/,FF6462
+4129,PCLp,"paracentral lobule, posterior part, right",4125,R,229,/4005/4006/4007/4008/4084/4125/4129/,FF6462
+4130,PCLp-l,"paracentral lobule, posterior part, right, lateral bank of gyrus",4129,R,230,/4005/4006/4007/4008/4084/4125/4129/4130/,FF6462
+4131,PCLp-cs,"paracentral lobule, posterior part, right, bank of cingulate sulcus",4129,R,231,/4005/4006/4007/4008/4084/4125/4129/4131/,FF6462
+4086,PoG,"postcentral gyrus, left",4085,L,233,/4005/4006/4007/4008/4084/4085/4086/,FF6C62
+4087,PoG-cs,"postcentral gyrus, left, bank of the central sulcus",4086,L,234,/4005/4006/4007/4008/4084/4085/4086/4087/,FF6C62
+4088,PoG-sl,"postcentral gyrus, left, superior lateral aspect of gyrus",4086,L,235,/4005/4006/4007/4008/4084/4085/4086/4088/,FF6C62
+4089,PoG-il,"postcentral gyrus, left, inferior lateral aspect of gyrus",4086,L,236,/4005/4006/4007/4008/4084/4085/4086/4089/,FF6C62
+4090,PoG-pcs,"postcentral gyrus, left, bank of the posterior central sulcus",4086,L,237,/4005/4006/4007/4008/4084/4085/4086/4090/,FF6C62
+4091,PoG,"postcentral gyrus, right",4085,R,238,/4005/4006/4007/4008/4084/4085/4091/,FF6C62
+4092,PoG-cs,"postcentral gyrus, right, bank of the central sulcus",4091,R,239,/4005/4006/4007/4008/4084/4085/4091/4092/,FF6C62
+4093,PoG-sl,"postcentral gyrus, right, superior lateral aspect of gyrus",4091,R,240,/4005/4006/4007/4008/4084/4085/4091/4093/,FF6C62
+4094,PoG-il,"postcentral gyrus, right, inferior lateral aspect of gyrus",4091,R,241,/4005/4006/4007/4008/4084/4085/4091/4094/,FF6C62
+4095,PoG-pcs,"postcentral gyrus, right, bank of the posterior central sulcus",4091,R,242,/4005/4006/4007/4008/4084/4085/4091/4095/,FF6C62
+4119,PCu,"precuneus, left",4118,L,244,/4005/4006/4007/4008/4084/4118/4119/,FF7462
+4120,Pcu-s,"precuneus, left, superior lateral bank of gyrus",4119,L,245,/4005/4006/4007/4008/4084/4118/4119/4120/,FF7462
+4121,Pcu-i,"precuneus, left, inferior lateral bank of gyrus",4119,L,246,/4005/4006/4007/4008/4084/4118/4119/4121/,FF7462
+4122,PCu,"precuneus, right",4118,R,247,/4005/4006/4007/4008/4084/4118/4122/,FF7462
+4123,Pcu-s,"precuneus, right, superior lateral bank of gyrus",4122,R,248,/4005/4006/4007/4008/4084/4118/4122/4123/,FF7462
+4124,Pcu-i,"precuneus, right, inferior lateral bank of gyrus",4122,R,249,/4005/4006/4007/4008/4084/4118/4122/4124/,FF7462
+4119,PCu,"precuneus, left",4118,L,244,/4005/4006/4007/4008/4084/4118/4119/,FF7462
+4120,Pcu-s,"precuneus, left, superior lateral bank of gyrus",4119,L,245,/4005/4006/4007/4008/4084/4118/4119/4120/,FF7462
+4121,Pcu-i,"precuneus, left, inferior lateral bank of gyrus",4119,L,246,/4005/4006/4007/4008/4084/4118/4119/4121/,FF7462
+4122,PCu,"precuneus, right",4118,R,247,/4005/4006/4007/4008/4084/4118/4122/,FF7462
+4123,Pcu-s,"precuneus, right, superior lateral bank of gyrus",4122,R,248,/4005/4006/4007/4008/4084/4118/4122/4123/,FF7462
+4124,Pcu-i,"precuneus, right, inferior lateral bank of gyrus",4122,R,249,/4005/4006/4007/4008/4084/4118/4122/4124/,FF7462
+4157,FuG,"fusiform gyrus, left",4156,L,259,/4005/4006/4007/4008/4132/4156/4157/,FF877F
+4158,FuG-its,"fusiform gyrus, left, bank of the its",4157,L,260,/4005/4006/4007/4008/4132/4156/4157/4158/,FF877F
+4159,FuG-l,"fusiform gyrus, left, lateral bank of gyrus",4157,L,261,/4005/4006/4007/4008/4132/4156/4157/4159/,FF877F
+4160,FuG-cos,"fusiform gyrus, left, bank of cos",4157,L,262,/4005/4006/4007/4008/4132/4156/4157/4160/,FF877F
+4161,FuG,"fusiform gyrus, right",4156,R,263,/4005/4006/4007/4008/4132/4156/4161/,FF877F
+4162,FuG-its,"fusiform gyrus, right, bank of the its",4161,R,264,/4005/4006/4007/4008/4132/4156/4161/4162/,FF877F
+4163,FuG-l,"fusiform gyrus, right, lateral bank of gyrus",4161,R,265,/4005/4006/4007/4008/4132/4156/4161/4163/,FF877F
+4164,FuG-cos,"fusiform gyrus, right, bank of cos",4161,R,266,/4005/4006/4007/4008/4132/4156/4161/4164/,FF877F
+4166,HG,"Heschl's gyrus, left",4165,L,268,/4005/4006/4007/4008/4132/4165/4166/,FF8A7F
+4167,HG,"Heschl's gyrus, right",4165,R,269,/4005/4006/4007/4008/4132/4165/4167/,FF8A7F
+4148,ITG,"inferior temporal gyrus, left",4147,L,271,/4005/4006/4007/4008/4132/4147/4148/,FF8D7F
+4149,ITG-its,"inferior temporal gyrus, left, bank of the its",4148,L,272,/4005/4006/4007/4008/4132/4147/4148/4149/,FF8D7F
+4150,ITG-l,"inferior temporal gyrus, left, lateral bank of gyrus",4148,L,273,/4005/4006/4007/4008/4132/4147/4148/4150/,FF8D7F
+4151,ITG-mts,"inferior temporal gyrus, left, bank of mts",4148,L,274,/4005/4006/4007/4008/4132/4147/4148/4151/,FF8D7F
+4152,ITG,"inferior temporal gyrus, right",4147,R,275,/4005/4006/4007/4008/4132/4147/4152/,FF8D7F
+4153,ITG-its,"inferior temporal gyrus, right, bank of the its",4152,R,276,/4005/4006/4007/4008/4132/4147/4152/4153/,FF8D7F
+4154,ITG-l,"inferior temporal gyrus, right, lateral bank of gyrus",4152,R,277,/4005/4006/4007/4008/4132/4147/4152/4154/,FF8D7F
+4155,ITG-mts,"inferior temporal gyrus, right, bank of mts",4152,R,278,/4005/4006/4007/4008/4132/4147/4152/4155/,FF8D7F
+4141,MTG,"middle temporal gyrus, left",4140,L,280,/4005/4006/4007/4008/4132/4140/4141/,FF907F
+4142,MTG-s,"middle temporal gyrus, left, superior bank of gyrus",4141,L,281,/4005/4006/4007/4008/4132/4140/4141/4142/,FF907F
+4143,MTG-i,"middle temporal gyrus, left, inferior bank of gyrus",4141,L,282,/4005/4006/4007/4008/4132/4140/4141/4143/,FF907F
+4144,MTG,"middle temporal gyrus, right",4140,R,283,/4005/4006/4007/4008/4132/4140/4144/,FF907F
+4145,MTG-s,"middle temporal gyrus, right, superior bank of gyrus",4144,R,284,/4005/4006/4007/4008/4132/4140/4144/4145/,FF907F
+4146,MTG-i,"middle temporal gyrus, right, inferior bank of gyrus",4144,R,285,/4005/4006/4007/4008/4132/4140/4144/4146/,FF907F
+4178,PLP,"planum polare, left",4177,L,287,/4005/4006/4007/4008/4132/4177/4178/,FF937F
+4179,PLP,"planum polare, right",4177,R,288,/4005/4006/4007/4008/4132/4177/4179/,FF937F
+4172,PLT,"planum temporale, left",4171,L,290,/4005/4006/4007/4008/4132/4171/4172/,FF967F
+4173,PLT,"planum temporale, right",4171,R,291,/4005/4006/4007/4008/4132/4171/4173/,FF967F
+4134,STG,"superior temporal gyrus, left",4133,L,293,/4005/4006/4007/4008/4132/4133/4134/,FF997F
+4135,STG-l,"superior temporal gyrus, left, lateral bank of gyrus",4134,L,294,/4005/4006/4007/4008/4132/4133/4134/4135/,FF997F
+4136,STG-i,"superior temporal gyrus, left, inferior bank of gyrus",4134,L,295,/4005/4006/4007/4008/4132/4133/4134/4136/,FF997F
+4137,STG,"superior temporal gyrus, right",4133,R,296,/4005/4006/4007/4008/4132/4133/4137/,FF997F
+4138,STG-l,"superior temporal gyrus, right, lateral bank of gyrus",4137,R,297,/4005/4006/4007/4008/4132/4133/4137/4138/,FF997F
+4139,STG-i,"superior temporal gyrus, right, inferior bank of gyrus",4137,R,298,/4005/4006/4007/4008/4132/4133/4137/4139/,FF997F
+4175,TP,"temporal pole, left",4174,L,300,/4005/4006/4007/4008/4132/4174/4175/,FF9C7F
+4903,TP-s,"temporal pole, left, superior aspect",4175,L,301,/4005/4006/4007/4008/4132/4174/4175/4903/,FF9C7F
+4904,TP-i,"temporal pole, left, inferior aspect",4175,L,302,/4005/4006/4007/4008/4132/4174/4175/4904/,FF9C7F
+4905,TP-m,"temporal pole, left, medial aspect",4175,L,303,/4005/4006/4007/4008/4132/4174/4175/4905/,FF9C7F
+4176,TP,"temporal pole, right",4174,R,304,/4005/4006/4007/4008/4132/4174/4176/,FF9C7F
+4906,TP-s,"temporal pole, right, superior aspect",4176,R,305,/4005/4006/4007/4008/4132/4174/4176/4906/,FF9C7F
+4907,TP-i,"temporal pole, right, inferior aspect",4176,R,306,/4005/4006/4007/4008/4132/4174/4176/4907/,FF9C7F
+4908,TP-m,"temporal pole, right, medial aspect",4176,R,307,/4005/4006/4007/4008/4132/4174/4176/4908/,FF9C7F
+4169,TG,"transverse gyri, left",4168,L,309,/4005/4006/4007/4008/4132/4168/4169/,FF9F7F
+4170,TG,"transverse gyri, right",4168,R,310,/4005/4006/4007/4008/4132/4168/4170/,FF9F7F
+4060,LOrG,"lateral orbital gyrus, left",4059,L,39,/4005/4006/4007/4008/4009/4059/4060/,E8CA59
+4061,LOrG,"lateral orbital gyrus, right",4059,R,40,/4005/4006/4007/4008/4009/4059/4061/,E8CA59
+4097,SPL,"superior parietal lobule, left",4096,L,251,/4005/4006/4007/4008/4084/4096/4097/,FF7B62
+4098,SPL-s,"superior parietal lobule, left, superior bank of gyrus",4097,L,252,/4005/4006/4007/4008/4084/4096/4097/4098/,FF7B62
+4099,SPL-i,"superior parietal lobule, left, inferior bank of gyrus",4097,L,253,/4005/4006/4007/4008/4084/4096/4097/4099/,FF7B62
+4100,SPL,"superior parietal lobule, right",4096,R,254,/4005/4006/4007/4008/4084/4096/4100/,FF7B62
+4101,SPL-s,"superior parietal lobule, right, superior bank of gyrus",4100,R,255,/4005/4006/4007/4008/4084/4096/4100/4101/,FF7B62
+4102,SPL-i,"superior parietal lobule, right, inferior bank of gyrus",4100,R,256,/4005/4006/4007/4008/4084/4096/4100/4102/,FF7B62

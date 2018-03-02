@@ -2,7 +2,7 @@
 # -------------------------------
 # Code to pre-process AHBA data used in:
 # 
-# Gene expression links functionally coupled aspects of cortex and striatum
+# Gene expression links functional networks across cortex and striatum
 # Anderson, K.M., Krienen, F.M., Choi, E.Y.3, Reinen, J.M., Yeo, B.T., Holmes. A.J.
 #
 #

@@ -3,7 +3,7 @@
 % -------------------------------
 % Code to plot correlation values on caret surfaces
 % 
-% Gene expression links functionally coupled aspects of cortex and striatum
+% Gene expression links functional networks across cortex and striatum
 % Anderson, K.M., Krienen, F.M., Choi, E.Y., Reinen, J.M., Yeo, B.T., Holmes. A.J.
 %
 %
